@@ -1,4 +1,4 @@
-# Power BI Data Modeling Project
+# Data Modeling Project in Power BI
 This project restructures a chaotic data model with bad shapes and bad relationships into a clean galaxy schema data model, which is ready for reliable analytics and reporting. 
 
 ## Project Requirements
