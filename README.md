@@ -41,16 +41,17 @@ Use a systematic approach to clean and restructure a disorganized model that has
 1.	Define the language: English.
 2.	Naming: snake_case
 3.	Tables: Define the prefixes.
-     fact_ for Fact Tables
-     dim_ for Dimension Tables.
+   -  fact_ for Fact Tables
+   -  dim_ for Dimension Tables.
 4.	Keys: Suffix for the columns.
-     _key for every column we make/create e.g product_key.
-     _id for every column from the source file e.g customer_id.
-5.	Friendly/professional  names
+   -  _key for every column we make/create e.g product_key.
+   -  _id for every column from the source file e.g customer_id.
+5.	Friendly/professional  names.
 Readable meaningful names, not cryptic codes or technical short/abbreviations for table names, column names, values inside our tables. 
 6.	Capitalization 
 Capitalize each word in all the text values.
 
+### Preview
 
 
 
