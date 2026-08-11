@@ -1,2 +1,2 @@
-# Power-BI-Data-Modeling-Project
+# PowerBI-Data-Modeling-Project
 Building a data model project in Power BI using a dataset of 23 messy tables and rebuild it into a clean galaxy schema.
