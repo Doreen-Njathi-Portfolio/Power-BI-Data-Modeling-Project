@@ -1,5 +1,5 @@
 # PowerBI-Data-Modeling-Project
-This project rebuilds a chaotic data model with bad shapes and bad relationships into a clean galaxy schema data model, which is ready for reliable analytics and reporting. 
+This project restructures a chaotic data model with bad shapes and bad relationships into a clean galaxy schema data model, which is ready for reliable analytics and reporting. 
 
 ## Project Requirements
 ### Building the Data Model
