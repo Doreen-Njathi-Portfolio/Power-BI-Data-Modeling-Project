@@ -25,24 +25,24 @@ Use a systematic approach to clean and restructure a disorganized model that has
    - Test so the numbers never break.
 
 6. Polish:
-   - Re-check the stds
-   - Add the date dimension
-   - Build the measures
-   - Add row-level security
-   - Final validation
+   - Re-check the standards. 
+   - Add the date dimension.
+   - Build the measures.
+   - Add row-level security.
+   - Final validation.
 
 #### Project Rules
-1. Build a galaxy schema: Never connect Facts together!
+1. Build a galaxy schema: Never connect facts together!
 2. Always do a grain analysis.
 3. Every column earns it’s place.
 4. Protect the numbers: Know your totals, re-check after every change so that they don’t break.
 
 #### Modeling Standards 
-1.	Define the language: English.
-2.	Naming: snake_case
+1.	Language: English.
+2.	Naming: snake_case.
 3.	Tables: Define the prefixes.
-    - fact_ for Fact Tables
-`   - dim_ for Dimension Tables.
+    - fact_ for Fact Tables.
+    - dim_ for Dimension Tables.
 5.	Keys: Suffix for the columns.
     - _key for every column we make/create e.g product_key.
     - _id for every column from the source file e.g customer_id.
