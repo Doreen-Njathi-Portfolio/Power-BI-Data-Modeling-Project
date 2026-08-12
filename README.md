@@ -14,14 +14,14 @@ Use a systematic approach to clean and restructure a disorganized model that has
      
 2. Dimensions:
    - Group tables that describes the same thing.
-   - Reshape them into one clean dimension.
-   - Polish the dimension to make sure we are following the stds that we set at the beginning of the project.
+   - combine and reshape them into one clean dimension.
+   - Polish the dimension to make sure it is following the standards that were set at the beginning of the project.
    - Build them clean one by one.
      
 4. Facts:
    - Pick an event, read it’s grain.
    - Build the fact from the details.
-   - Connect every dimension.
+   - Connect to every dimension that is relevant.
    - Test so the numbers never break.
 
 6. Polish:
