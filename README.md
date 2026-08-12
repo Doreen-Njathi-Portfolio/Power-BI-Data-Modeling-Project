@@ -52,7 +52,3 @@ Use a systematic approach to clean and restructure a disorganized model that has
 ### Preview  
 ![Model View Screenshot](https://github.com/Doreen-Njathi-Portfolio/Power-BI-Data-Modeling-Project/blob/main/Power%20BI%20files/Galaxy%20Schema%20Model_Screenshot%20.jpg)
 
-
-## About Me
-Hi there! I'm Doreen Njathi. I am a self taught data analyst building impactful projects in Excel, SQL and Power BI. This is one of my projects. My career started as a borehole geologist analyzing Olkaria's geothermal reservoir for electricity generation. I pivoted into sustainability and I hold a MSc in Environment and Natural Resources. 
-
